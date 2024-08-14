@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Pew from Malaysia 🇲🇾<br><br>📚 I'm currently learning data visualization<br>🎲 Fun fact: I'm left-handed</p>
+<p align="left">I'm Pew from Malaysia 🇲🇾<br><br>📚 I'm currently learning Next.js<br>🎲 Fun fact: I'm left-handed</p>
 
 ###
 
